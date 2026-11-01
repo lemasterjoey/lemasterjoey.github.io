@@ -1,0 +1,6 @@
+# 狮城帮佣指南
+# robots.txt for https://lemasterjoey.github.io
+User-agent: *
+Allow: /
+
+Sitemap: https://lemasterjoey.github.io/sitemap.xml
